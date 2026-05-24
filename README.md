@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Data Science<br>AI/ML Engineer<br>Backend Engineering<br>Production-ready systems<br>Predictive analytics<br>Deep Learning<br>Problem solving
 
 
